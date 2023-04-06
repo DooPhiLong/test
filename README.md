@@ -1,22 +1,7 @@
-# 🛒 Case Study - E-commerce Company : B.Analysis
-
-![image](https://user-images.githubusercontent.com/101379141/202636791-a5d3ea55-74b8-4444-9f8f-618cbff68013.png)
-
-
-# :books: Table of Contents <!-- omit in toc -->
-
-- [1. Overall](#1-overall)
-- [2. Sale & Product](#2-sale-and-product)
-- [3. Orders](#3-orders)
-- [4. Transaction](#4-transaction)
-- [5. Review](#5-review)
-- [6. Conclusion & Recommendation](#6-conclusion--recommendation)
-
----
-
 # 1. Overall 
 
 ![image](https://user-images.githubusercontent.com/101379141/202949850-2abec1b3-48be-44e8-ae14-f5d2543fb51e.png)
+![image](https://user-images.githubusercontent.com/120476961/230338004-314827cd-1280-444c-bb92-2c7ed98d6160.png)
 
 - There are about 100k brazilians having experience shopping on E-commerce website and other shopping platforms .
   - With about 100,000 orders has been done by brazilians, there are 135,000 purchased products and 16 mil Brazilian real is total revenue in 3 years of operation.
