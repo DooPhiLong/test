@@ -1,7 +1,7 @@
 # 1. Overall 
 
 ![image](https://user-images.githubusercontent.com/101379141/202949850-2abec1b3-48be-44e8-ae14-f5d2543fb51e.png)
-![image](https://user-images.githubusercontent.com/120476961/230338004-314827cd-1280-444c-bb92-2c7ed98d6160.png)
+![image](https://user-images.githubusercontent.com/120476961/230339797-bb2b6be3-0f18-4c14-a2e8-0ec907b6f324.png)
 
 - There are about 100k brazilians having experience shopping on E-commerce website and other shopping platforms .
   - With about 100,000 orders has been done by brazilians, there are 135,000 purchased products and 16 mil Brazilian real is total revenue in 3 years of operation.
